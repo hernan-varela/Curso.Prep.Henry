@@ -1,0 +1,12 @@
+ En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+ 
+#for: un bucle for se utiliza cuando queremos repetir cierta porcion de codigo por un tiempo determinado, a traves de distintos parametros que tiene este bucle, el prinmero de ellos es una variable de inicio, el segudo es la condicion de corte y la ultima es el paso de de la misma. dentro del este bucle iran contenidas la porcion de codigo que quiero repetir.
+
+operadores Logicos:
+# && : este operador logico llamado "and" tiene la particularidad de hacer comparaciones condicionales entre varias sentencias de codigo, en este caso la comparacion retornara verdadera si y solo si ambas condiciones son verdaderas.
+
+# || : este operador logico llamado "or" es casi igual al operador logico anterior con la diferencia que este devolvera true si una de sus condiciones es verdadera.
+ # ! : operador "not" este operador tiene la particularidad de invertir las condiciones de los condicionales, es decir si una sentencia es verdadera al poner "!" delante de la condicion por ejemplo "true" retornara false.
