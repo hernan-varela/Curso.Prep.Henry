@@ -1,0 +1,3 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Arrays: los arrays son un tipo de dato el cual colecciona datos es decir en el se pueden almacenar diferentes tipos de datos(en javascript ya que no es un lenguaje fuertemente tipado), ademas se pueden acceder a estos elementos a traves de indices en donde el primer elemento que contene se encuentra en la pocicion 0 el segundo en la 1 y asi sucecivamente.
