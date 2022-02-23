@@ -1,0 +1,12 @@
+ En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+* Variables: Las variables son contenedores de algun tipo de dato especifico o  no si se tratara de un array el cual uede tener tipos de datos diferentes, en otras palabreas seria como una especie de caja a la cual se le pone un nombre para poder identificarla y alli ir guardando los datos que en un futuro seran utilizados para cumplir algun proposito dentro del programa.
+
+* Strings: Los string son un tipo de datos el cual esta representado con una cadena de caracteres los cuales se utilizan para formar diferentes palabras que quiero guardar o imprimiir(por ejemplo nombres de personas, de marcas de algun objeto hasta incluso pueden contener textos extensos)
+
+* Funciones (argumentos, `return`): Las funciones son porciones de codigo que utilizan lois diferentes lenguajes para evitar redundancia en cierta porciuon de codigo, es decir si se que alguna parte del codigo va a ser repetitiva creo una funcion y esta podra ser utilizada en cualquier parte del programa solo haciendo una "llamada" a ella solo con su nombre.La misma puede tener ARGUMENTOS, los cuales se utilizan para ingresar algun valor dentro de la funcion y de esta forma trabajar sobre ella. Las funciones tabien pueden retornar o no alguna varible(tipo de dato) el cual seria el resultado de haber trabajado sobre algun argumento.
+
+* Declaraciones `if`: podria definir a los "ifs" como una operacion condicional en donde se alojara una porcion de codigo el cual se ejecutara si la condicion que tiene este if es verdadera, en caso contrario esa porcion de codigo no se ejecutara. por eso el nombre de expresiones condicionales.
+
+* Valores booleanos (`true`, `false`): los valores booleanos son un tipo de dato dentro de los lenguajes de programacion los cuales representan un tipo de logica binaria, es decir solo pueden tener estos 2 valores verdadero o falso.siendo estos muy utiles para llevar a cabo el flujo de ejecucion de un programa.
