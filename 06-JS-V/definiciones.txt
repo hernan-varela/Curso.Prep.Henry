@@ -1,0 +1,5 @@
+ En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype` : Es la forma en javascript organiza las clases con el fin de evitar reduncias en el codigo, ademas permite una administracion de la memoria msa eficiente, por ejemplo si un objeto comparte una funcion para evitar que esa funcion sea escrita en todos los objetos se arma una especie  de "generalizacion" en donse se crea una clase padre y el metodo estara en esa clase creada y si al momento de invocar la funcion javascript  nota que esa funcion no esta contenida dentro de ese objeto, buscara la misma en su objeto pototype es decir un nivel mas arriba.
+
+* _Constructors_ (de Clases): los constructores son un tipo de metodo especiales los cuales nos permiten la creacion e objetos, la misma puede recibir parametros quienes a traves del keyword this quien hace referencia al mismo objeto,las pasa al objeto a crear.
