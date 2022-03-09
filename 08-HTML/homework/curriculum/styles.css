@@ -1,0 +1,26 @@
+#foto{
+    width: 250px;
+}
+
+#fotoYnombre{
+    border-color: black;
+    border-style: ridge;
+}
+
+#flex-container-datosPersonales{
+
+}
+#iconGmail{
+    width: 30px;
+    height: 30px;
+}
+
+#iconLinkedin{
+    width: 30px;
+    height: 30px;
+}
+
+#iconGithub{
+    height: 30px;
+    width: 30px;
+}
